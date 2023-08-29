@@ -1,2 +1,2 @@
 # Project_3_Robot_Understanding_of_Human_Behavior_D2
-ROBOT LEARNING FROM DATA
+CSCI 473
